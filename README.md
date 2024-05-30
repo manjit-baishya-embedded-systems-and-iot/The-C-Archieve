@@ -18,23 +18,9 @@ As an enthusiast of high-level programming and computer science, I've been honin
 ## Problems Solved
 
 The entire repository has been divided into two sections:
-<br>`Practice Problems`<br>
-`Project Works`<br>
-
-Here's a sneak peek at some of the problems I've solved using C programming:
-
-1. Hello World Program
-2. Arithmetic Operators in C
-3. Find the factorial of a number
-4. Check if a number is prime
-5. Calculate the Fibonacci series
-6. Reverse a string
-7. Find the largest element in an array
-8. Sort an array in ascending order
-9. Implement linear search in an array
-10. Implement binary search in a sorted array
-
-... (list continues up to 100)
+- `Getting started`<br>
+- `Practice Problems`<br>
+- `Advanced Problems`
 
 ## How to Use
 
@@ -50,7 +36,7 @@ Contributions are always welcome! If you have any interesting problem solutions 
 
 ## License
 
-This repository is licensed under the `MIT License`. See the [**LICENSE**](LICENSE) file for more details.
+This repository is licensed under the `MIT License`. See the [**LICENSE**](/license) file for more details.
 
 ---
 
