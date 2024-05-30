@@ -1,4 +1,4 @@
-# **Welcome to C Programming Repository!** 🚀
+# **The C Programming Repository!** 🚀
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -8,10 +8,6 @@
 Welcome to my C Programming Problem Solving Repository! This repository is a collection of my solutions to various problems implemented using the C programming language.
 
 As an enthusiast of high-level programming and computer science, I've been honing my skills in C programming. This repository serves as a showcase of my problem-solving abilities and understanding of C language concepts.
-
-## About C Programming Language
-
-C is a powerful high-level programming language known for its efficiency, portability, and versatility. It provides low-level access to system resources, making it ideal for system programming, embedded systems, and applications requiring high performance.
 
 ## Repository Structure
 
